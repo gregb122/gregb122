@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🙋‍♂️ My name is Grzegorz and I'm a **backend Python** developer from Poland
-- 🔭 I’m working as a Software Engineer in **Cyber Security**
+- 🔭 I work as a Software Engineer in **Cyber Security**
 - 💼 Check out my daily commercial work: [grzegorzbielecki](https://github.com/grzegorzbielecki)
 - 📫 Reach me via e-mail grzegorz.bielecki9@gmail.com or via discord **gregb122**
 - ✨ My LinkedIn [grzegorzbielecki](https://www.linkedin.com/in/grzegorzbielecki/)
