@@ -4,7 +4,9 @@
 - 💻 Right now I’m learning **Rust**
 - 💼 Check out my daily commercial work: [grzegorzbielecki](https://github.com/grzegorzbielecki)
 - 📫 Reach me via e-mail grzegorz.bielecki9@gmail.com or via discord **gregb122**
-- ✨ My LinkedIn [grzegorzbielecki](https://www.linkedin.com/in/grzegorzbielecki/)
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grzegorzbielecki/)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gregb122&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
